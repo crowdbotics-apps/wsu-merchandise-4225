@@ -1,0 +1,3 @@
+rootProject.name = 'wsu_merchandise_4225'
+
+include ':app'

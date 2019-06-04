@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT wsu_merchandise_4225.wsgi:application
